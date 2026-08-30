@@ -1,10 +1,10 @@
-# Student Course and Result Management System
+# Student  Management System
 
 ## Data Structure and Algorithm Lab - Project Based Learning
 
 ### Project Title
 
-**Student Course and Result Management System using C**
+**Student Management System using C**
 
 ## Introduction
 
